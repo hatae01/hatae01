@@ -1,6 +1,7 @@
 ## Hi there 안녕하세요  👋
 ### :octocat: 안녕하세요 
 <!--
+-화이팅
 **hatae01/hatae01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
