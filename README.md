@@ -3,7 +3,7 @@
 
 ![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
 -화이팅
-**hatae01/hatae01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hatae01/hatae01** is a ✨ _special_ ✨
 
 
 Here are some ideas to get you started:
